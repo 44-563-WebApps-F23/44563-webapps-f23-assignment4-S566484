@@ -1,0 +1,47 @@
+.speech{
+    font-size: medium;
+    color: black;
+    }
+    .directions{
+        font-size: large;
+        color: black;
+        background-color: purple;
+    }
+    .directions:hover{
+        color: black;
+        background-color: pink;
+    }
+    .REGINA{
+        color: violet;
+    }
+    .MRS.ALVING{
+        color: aquamarine;
+    }
+    .MANDERS{
+        color: brown;
+    }
+    table, th, td {
+        border: 1px solid;
+        color:lightsalmon;
+        text-align:left;
+        padding:1cqmax;
+        margin:1cqmax;
+    }
+    tr:nth-child(odd) {
+        background-color:gray;
+         }
+         tr:nth-child(even){
+            background-color:green;
+         }
+         table{
+            border: solid 3px;
+            border-collapse: collapse;}
+            h6:hover{
+                background-color:lightskyblue;
+                text-shadow: 2px 2px 2px;
+                border:2px solid;
+                color:orange;
+                
+            }
+
+
