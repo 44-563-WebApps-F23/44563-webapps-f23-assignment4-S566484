@@ -7,6 +7,9 @@
         color: black;
         background-color: purple;
     }
+    .name{
+        color:blue;
+    }
     .directions:hover{
         color: black;
         background-color: pink;
@@ -35,7 +38,8 @@
          }
          table{
             border: solid 3px;
-            border-collapse: collapse;}
+            border-collapse: collapse;
+        }
             h6:hover{
                 background-color:lightskyblue;
                 text-shadow: 2px 2px 2px;
